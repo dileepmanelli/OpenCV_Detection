@@ -18,7 +18,7 @@ To run the script, simply execute the following command:
 
 
 ```
-python object_detection.py
+python OpenCV.py
 ```
 This will open up your webcam and start detecting the object in real-time. Press 'q' to quit the script.
 
