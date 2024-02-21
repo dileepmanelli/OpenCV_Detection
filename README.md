@@ -6,7 +6,8 @@ This is a Python script that uses OpenCV to detect objects in real-time using a 
 
 To run this script, you will need to have OpenCV installed on your machine. You can install it using pip:
 
-```pip install opencv-python
+```
+pip install opencv-python
 ```
 
 You will also need to download the XML file for the object you want to detect and update the file path in the script to match the location on your machine.
