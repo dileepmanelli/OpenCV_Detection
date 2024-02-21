@@ -17,7 +17,7 @@ You will also need to download the XML file for the object you want to detect an
 To run the script, simply execute the following command:
 
 
-```python object_detection.py
+``` python object_detection.py
 ```
 This will open up your webcam and start detecting the object in real-time. Press 'q' to quit the script.
 
